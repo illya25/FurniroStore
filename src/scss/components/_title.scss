@@ -1,3 +1,7 @@
+@use '../utils/variables' as *;
+@use '../utils/mixins' as *;
+@use '../utils/breakpoints' as *;
+
 .title {
   margin: 0;
   font-size: 56px;
